@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-Sistema desenvolvido para auxiliar uma 
+Sistema desenvolvido para ajudar na organização e no acompanhamento das ações de saúde realizadas no ambiente escolar.
 
 ## Objetivo
 
