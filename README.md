@@ -9,16 +9,18 @@
 
 ## Sobre o projeto
 
-Sistema desenvolvido para ajudar na organização e no acompanhamento das ações de saúde realizadas no ambiente escolar.
+Nossa proposta é desenvolver um sistema simples para ajudar na organização e no acompanhamento de algumas ações de saúde realizadas com os estudantes.
+O sistema busca reunir informações dos alunos em um só lugar, facilitando o cadastro, a consulta e o acompanhamento dos registros relacionados às ações realizadas na escola.
+
 
 ## Objetivo
+O objetivo do projeto é criar um sistema que facilite a organização das informações dos estudantes e ajude a identificar possíveis pendências ou situações que precisam de acompanhamento.
+A proposta também é permitir que os profissionais de saúde registrem as informações das ações realizadas, que os responsáveis possam consultar informações do seu filho e que o administrador possa controlar os usuários e os acessos ao sistema.
 
-Melhorar a organização 
 
 ## Tecnologias
 
-- C
-- Git
+- Python
 - GitHub
 
 ## Documentação
