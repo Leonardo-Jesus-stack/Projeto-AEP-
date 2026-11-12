@@ -3,9 +3,9 @@
 
 ## Integrantes
 
-- Leonardo Jesus Siqueira Peixoto
-- Carlos Alberto Barros Gonzaga
-- Vinícius Matheus Ramos Pedrogan
+- Leonardo Jesus Siqueira Peixoto RA:26007387-2
+- Carlos Alberto Barros Gonzaga:
+- Vinícius Matheus Ramos Pedrogan:
 
 ## Sobre o projeto
 
