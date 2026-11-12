@@ -20,7 +20,7 @@ A proposta também é permitir que os profissionais de saúde registrem as infor
 
 ## Tecnologias
 
-- Python
+- C
 - GitHub
 
 ## Documentação
